@@ -107,3 +107,11 @@ footer .container{
 .container-main{
   background-color: #dedede;
 }
+.mini-banner{
+  color: white;
+  height: 30vh;
+  background-image: url("images/mini-banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
